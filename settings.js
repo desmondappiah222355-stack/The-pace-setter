@@ -3,7 +3,7 @@ const settings = {
   author: '‎',
   botName: "The Pace Setter",
   botOwner: 'Desmond and Dela', // Your name
-  ownerNumber: '+233 50 698 8830' , //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '233 50 698 8830' , //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
